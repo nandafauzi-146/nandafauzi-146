@@ -15,9 +15,6 @@
   </a>
   <a href="https://www.instagram.com/doellz_/">
     <img src="https://img.shields.io/badge/Instagram-@doellz__-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nandafauzi-146&style=flat&color=blue" alt="Profile Views"/>
-</p>
 Welcome to my GitHub profile!
 
 I'm **Nanda Fauzi**, an Information Systems student at **Universitas Teknologi Yogyakarta** with a strong interest in software engineering, full-stack web development, information systems analysis, and technology-driven business solutions.
