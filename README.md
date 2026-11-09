@@ -16,6 +16,17 @@
   <a href="https://www.instagram.com/doellz_/">
     <img src="https://img.shields.io/badge/Instagram-@doellz__-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
     
+
+# Contribution Activity
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nandafauzi-146&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
+
+    
 # Welcome to my GitHub profile!
 
 I'm **Nanda Fauzi**, an Information Systems student at **Universitas Teknologi Yogyakarta** with a strong interest in software engineering, full-stack web development, information systems analysis, and technology-driven business solutions.
