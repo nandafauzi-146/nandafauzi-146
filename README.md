@@ -1,9 +1,9 @@
 # 👋 Hello, World! I'm Nanda Fauzi
 
-### Information Systems Student | Full Stack Developer | Software Development Enthusiast
+### Information Systems Student | Junior Full Stack Developer | Software Development Enthusiast
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&width=650&lines=Information+Systems+Student;Full+Stack+Web+Developer;Laravel+%7C+PHP+%7C+JavaScript;Building+Digital+Solutions;Software+Engineering+Enthusiast;Always+Learning+and+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&width=650&lines=Information+Systems+Student;Junior+Full+Stack+Web+Developer;Laravel+%7C+PHP+%7C+JavaScript;Building+Digital+Solutions;Software+Engineering+Enthusiast;Always+Learning+and+Growing" alt="Typing SVG" />
 </p>
 
 <p align="left">
